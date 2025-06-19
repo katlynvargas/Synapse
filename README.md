@@ -54,14 +54,14 @@ Ajudar empresas a manterem seus setores organizados, com comunicação fluida e 
 
 ## 🗂 Estrutura da pasta 
 
-📁 synapse/
-├── README.md
-├── docs/
-│ └── planejamento_inicial.pdf
-│ └── wireframes/
-│ └── dashboard_mockup.png
-├── backend/
-├── frontend/
+- 📁 synapse/
+- ├── README.md
+- ├── docs/
+- │ └── planejamento_inicial.pdf
+- │ └── wireframes/
+- │ └── dashboard_mockup.png
+- ├── backend/
+- ├── frontend/
 
 ---
 
